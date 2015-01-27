@@ -1,0 +1,1 @@
+# saltconf-demo-pillar
